@@ -1,4 +1,4 @@
-### Olá! Eu sou o Rafael Gomes, especializando em Java Web e Python, seja bem-vindo(a)!😁
+### Olá! Eu sou o Rafael Gomes, especializando em Java Web e Python, seja bem-vindo(a)!
 
 ##
 - 📖 Cursando Tecnologia para Internet - Senai MG
